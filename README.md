@@ -1,6 +1,6 @@
 ## Arch-Frost Theme
 
-Numix-Frost theme customized with Arch in mind. 
+Light GTK theme w/ Arch-blue highlights. 
 
 If you're reading this on GitHub, and are using an Arch based distro, open a terminal and type:
 
